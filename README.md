@@ -26,6 +26,6 @@ A reliable classification model can assist botanists, researchers, and horticult
 ### 3.	Data Preparation : Data Pre-Processing 
 ### 4.	Data Visualization 
 ### 5.	Modeling
-#### 5.1.	Model Building
-#### 5.2.	Evaluation 
-#### 5.3.	Model Comparison
+  #### 5.1.	Model Building
+  #### 5.2.	Evaluation 
+  #### 5.3.	Model Comparison
